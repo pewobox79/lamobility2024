@@ -1,0 +1,15 @@
+{
+  "name": "lamobilitynodecourse2024",
+  "version": "20.12.23",
+  "description": "node kurs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Wolf",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}

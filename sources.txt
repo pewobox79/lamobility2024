@@ -1,0 +1,20 @@
+##frameworks für JS
+
+NEXTJS  https://nextjs.org/
+
+Angular https://angular.dev/
+
+##nodejs 
+http server
+https://nodejs.org/docs/latest/api/http.html
+
+File System
+https://nodejs.org/docs/latest/api/fs.html
+
+node package manager
+https://www.npmjs.com/
+
+NVM => node version manager
+falls ihr unterschiedliche versionen verwendet, ist das ein hilfreiches tool
+https://github.com/nvm-sh/nvm
+
